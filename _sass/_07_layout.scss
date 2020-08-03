@@ -89,6 +89,12 @@ body.video cite { color: #fff; }
     margin-top: 60px;
 }
 
+#logo img {
+    position: absolute;
+    left:50%;
+    margin-left: -315px;
+}
+
 /* Masthead › small-only
 ------------------------------------------------------------------- */
 
@@ -120,9 +126,9 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$medium-only} {
-    #logo img {
+    //#logo img {
         //margin-top: 60px;
-    }
+    //}
     #masthead {
         height: 280px;
     }
