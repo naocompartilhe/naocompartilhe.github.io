@@ -93,9 +93,9 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$small-only} {
-    #logo img {
-        display: none;
-    }
+    //#logo img {
+      //  display: none;
+    //}
     #masthead {
         height: 200px;
     }
@@ -121,7 +121,7 @@ body.video cite { color: #fff; }
 
 @media #{$medium-only} {
     #logo img {
-        margin-top: 60px;
+        //margin-top: 60px;
     }
     #masthead {
         height: 280px;
@@ -143,9 +143,9 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$large-only} {
-    #logo img {
-        margin-top: 80px;
-    }
+    //#logo img {
+        //margin-top: 80px;
+    //}
     #masthead {
         height: 310px;
     }
@@ -166,9 +166,9 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$xlarge-up} {
-    #logo img {
-        margin-top: 110px;
-    }
+    //#logo img {
+        //margin-top: 110px;
+    //}
     #masthead {
         height: 380px;
     }
