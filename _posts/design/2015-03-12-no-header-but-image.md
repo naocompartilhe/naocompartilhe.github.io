@@ -1,7 +1,7 @@
 ---
 layout: page
-subheadline:  "Headers With Style"
-title:  "No Header but Article Image"
+subheadline: "Colete todas as suas notas com luvas e coloque-as em um envelope plástico selado"
+title: "Coronavírus se espalhará irreversivelmente"
 teaser: "Feeling Responsive enables you to get the attention of visitors. If you don't want to use a big header, use an image for the article instead."
 categories:
     - design
@@ -15,7 +15,7 @@ image:
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ---
-First turn of the header with `header: no`. Then add an image to with the following code. The caption is optional.
+Não quero assustar ninguém, mas o coronavírus se espalhará irreversivelmente em breve. E a principal forma de se infectar será através das notas de dinheiro. Portanto, colete todas as suas notas com luvas e coloque-as em um envelope plástico selado.
 <!--more-->
 
 ~~~
